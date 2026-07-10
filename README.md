@@ -3,13 +3,7 @@ An interactive data-driven platform for exploring Kenya's forests, wildlife, bio
 
 # Introduction
 
-Forest Explorer Kenya is an end-to-end cloud-based data engineering project that centralizes environmental data about Kenya's forests and wildlife into a single platform.
-
-The project automatically extracts data from multiple public APIs and datasets, processes it through an ETL pipeline, stores it in Google Cloud, and presents the information through a responsive web application.
-
-Instead of manually collecting information from different conservation websites, users can explore forests, wildlife species, biodiversity statistics, weather conditions, and conservation status from one centralized platform.
-
-The project demonstrates modern Data Engineering concepts including ETL pipelines, cloud storage, data warehousing, workflow orchestration, REST APIs, and full-stack web development.
+Forest Explorer Kenya is an end-to-end cloud data engineering project that centralizes information about Kenya's forests and wildlife into a single platform. The project extracts data from public APIs and datasets, processes it through an automated ETL pipeline, stores it in Google Cloud, and delivers it through a responsive web application. It showcases key data engineering concepts, including ETL, cloud storage, data warehousing, workflow orchestration, REST APIs, and full-stack development.
 
 # Problem Statement
 
@@ -22,19 +16,12 @@ Forest Explorer Kenya solves this challenge by building a centralized cloud plat
 # Objectives
 
 - Build an automated ETL pipeline for environmental data.
-
 - Integrate multiple APIs into one platform.
-
 - Store raw and processed data in Google Cloud.
-
 - Build a cloud data warehouse using BigQuery.
-
 - Develop REST APIs using FastAPI.
-
 - Create a responsive React web application.
-
 - Provide interactive dashboards and maps.
-
 - Demonstrate an end-to-end Data Engineering workflow.
 
 # Architecture
@@ -70,7 +57,7 @@ Forest Explorer Kenya solves this challenge by building a centralized cloud plat
       ┌────────┴────────┐
       ▼                 ▼
 
- PostgreSQL         FastAPI
+ PostgreSQL             FastAPI
 
       │                 │
       └────────┬────────┘
@@ -84,28 +71,52 @@ Forest Explorer Kenya solves this challenge by building a centralized cloud plat
 
 # Components
 
-**GBIF API** - Provides biodiversity and wildlife occurrence records.
+**GBIF API** 
+Provides biodiversity and wildlife occurrence records.
 
-**IUCN Red List API** - Provides conservation status for species.
+**IUCN Red List API**
+Provides conservation status for species.
 
-**Kenya Forest Service Dataset** - Contains information about Kenya's forests including location, size, and descriptions.
+**Kenya Forest Service Dataset**
+Contains information about Kenya's forests including location, size, and descriptions.
 
-**OpenWeather API** - Provides real-time weather conditions for each forest.
+**OpenWeather API**
+Provides real-time weather conditions for each forest.
 
-**Python** - Responsible for extracting, cleaning, validating, and transforming environmental data.Libraries used: Requests, Pandas and NumPy.
+**Python**
+Responsible for extracting, cleaning, validating, and transforming environmental data.
+Libraries used:
+- Requests
+- Pandas
+- NumPy
 
-**Apache Airflow** - Automates and orchestrates the ETL workflow.Responsibilities: Schedule data extraction ,Execute ETL jobs ,Monitor workflows and Load processed data.
+**Apache Airflow**
+Automates and orchestrates the ETL workflow.
+Responsibilities:
+- Schedule data extraction
+- Execute ETL jobs
+- Monitor workflows
+- Load processed data
 
-**Google Cloud Storage** - Acts as the project's Data Lake. Stores: Raw JSON, Raw CSV, Images and Logos.
+**Google Cloud Storage**
+Acts as the project's Data Lake.
+Stores:
+- Raw JSON
+- Raw CSV
+- Images
+- Logos
 
-**Google BigQuery** - Cloud Data Warehouse used for analytical queries and reporting.
+**Google BigQuery**
+Cloud Data Warehouse used for analytical queries and reporting.
 
-**PostgreSQL** - Stores application-specific data such as users, favourites, and saved searches.
+**PostgreSQL**
+Stores application-specific data such as users, favourites, and saved searches.
 
-**FastAPI** - Provides REST APIs that connect the frontend with the database.
+**FastAPI**
+Provides REST APIs that connect the frontend with the database.
 
-**React** - Responsive frontend used to display:
-
+**React**
+Responsive frontend used to display:
 - Dashboard
 - Forest Explorer
 - Wildlife Explorer
@@ -155,29 +166,17 @@ React Website
 
 # Features
 
-**Forest Explorer**
+**Forest Explorer** - Search and browse Kenya's forests.
 
-Search and browse Kenya's forests.
+**Wildlife Explorer** - Explore wildlife species with conservation information.
 
-**Wildlife Explorer**
+**Interactive Map** - Locate forests and protected areas.
 
-Explore wildlife species with conservation information.
+**Weather Dashboard** - Current weather conditions for selected forests.
 
-**Interactive Map**
+**Statistics Dashboard** - Visualize biodiversity and conservation data.
 
-Locate forests and protected areas.
-
-**Weather Dashboard**
-
-Current weather conditions for selected forests.
-
-**Statistics Dashboard**
-
-Visualize biodiversity and conservation data.
-
-**Search Engine**
-
-Search forests, wildlife, and species.
+**Search Engine** - Search forests, wildlife, and species.
 
 # Tech Stack
 
