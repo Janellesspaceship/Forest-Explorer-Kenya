@@ -57,7 +57,7 @@ Forest Explorer Kenya solves this challenge by building a centralized cloud plat
       ┌────────┴────────┐
       ▼                 ▼
 
- PostgreSQL             FastAPI
+ PostgreSQL         FastAPI
 
       │                 │
       └────────┬────────┘
@@ -72,26 +72,34 @@ Forest Explorer Kenya solves this challenge by building a centralized cloud plat
 # Components
 
 **GBIF API** 
+
 Provides biodiversity and wildlife occurrence records.
 
 **IUCN Red List API**
+
 Provides conservation status for species.
 
 **Kenya Forest Service Dataset**
+
 Contains information about Kenya's forests including location, size, and descriptions.
 
 **OpenWeather API**
+
 Provides real-time weather conditions for each forest.
 
 **Python**
+
 Responsible for extracting, cleaning, validating, and transforming environmental data.
+
 Libraries used:
 - Requests
 - Pandas
 - NumPy
 
 **Apache Airflow**
+
 Automates and orchestrates the ETL workflow.
+
 Responsibilities:
 - Schedule data extraction
 - Execute ETL jobs
@@ -99,7 +107,9 @@ Responsibilities:
 - Load processed data
 
 **Google Cloud Storage**
+
 Acts as the project's Data Lake.
+
 Stores:
 - Raw JSON
 - Raw CSV
@@ -107,15 +117,19 @@ Stores:
 - Logos
 
 **Google BigQuery**
+
 Cloud Data Warehouse used for analytical queries and reporting.
 
 **PostgreSQL**
+
 Stores application-specific data such as users, favourites, and saved searches.
 
 **FastAPI**
+
 Provides REST APIs that connect the frontend with the database.
 
 **React**
+
 Responsive frontend used to display:
 - Dashboard
 - Forest Explorer
