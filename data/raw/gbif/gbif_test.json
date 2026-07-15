@@ -1,0 +1,3045 @@
+{
+    "offset": 0,
+    "limit": 10,
+    "endOfRecords": false,
+    "count": 6184251,
+    "results": [
+        {
+            "key": 5938027617,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T22:25:25.945+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604725372/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "Stephanie M. Dloniak",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "604725372",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "Stephanie M. Dloniak",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/604725372",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-02T09:01:39-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "7CYM9",
+                        "name": "Tursiops aduncus (Ehrenberg, 1833)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Ehrenberg, 1833)",
+                        "genericName": "Tursiops",
+                        "specificEpithet": "aduncus",
+                        "formattedName": "<i>Tursiops</i> <i>aduncus</i> (Ehrenberg, 1833)"
+                    },
+                    "acceptedUsage": {
+                        "key": "7CYM9",
+                        "name": "Tursiops aduncus (Ehrenberg, 1833)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Ehrenberg, 1833)",
+                        "genericName": "Tursiops",
+                        "specificEpithet": "aduncus",
+                        "formattedName": "<i>Tursiops</i> <i>aduncus</i> (Ehrenberg, 1833)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "6224G",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "6226C",
+                            "name": "Theria",
+                            "rank": "SUBCLASS"
+                        },
+                        {
+                            "key": "LG",
+                            "name": "Eutheria",
+                            "rank": "INFRACLASS"
+                        },
+                        {
+                            "key": "WP",
+                            "name": "Cetacea",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "62397",
+                            "name": "Odontoceti",
+                            "rank": "SUBORDER"
+                        },
+                        {
+                            "key": "934",
+                            "name": "Delphinidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "83WW",
+                            "name": "Tursiops",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "7CYM9",
+                            "name": "Tursiops aduncus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "NT",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "2440455",
+                        "name": "Tursiops aduncus (Ehrenberg, 1833)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Ehrenberg, 1833)",
+                        "genericName": "Tursiops",
+                        "specificEpithet": "aduncus",
+                        "formattedName": "<i>Tursiops</i> <i>aduncus</i> (Ehrenberg, 1833)"
+                    },
+                    "acceptedUsage": {
+                        "key": "2440455",
+                        "name": "Tursiops aduncus (Ehrenberg, 1833)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Ehrenberg, 1833)",
+                        "genericName": "Tursiops",
+                        "specificEpithet": "aduncus",
+                        "formattedName": "<i>Tursiops</i> <i>aduncus</i> (Ehrenberg, 1833)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "359",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "733",
+                            "name": "Cetacea",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "5314",
+                            "name": "Delphinidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "2440446",
+                            "name": "Tursiops",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "2440455",
+                            "name": "Tursiops aduncus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "NT",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 2440455,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 359,
+            "orderKey": 733,
+            "familyKey": 5314,
+            "genusKey": 2440446,
+            "speciesKey": 2440455,
+            "acceptedTaxonKey": 2440455,
+            "scientificName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "scientificNameAuthorship": "(Ehrenberg, 1833)",
+            "acceptedScientificName": "Tursiops aduncus (Ehrenberg, 1833)",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Cetacea",
+            "family": "Delphinidae",
+            "genus": "Tursiops",
+            "species": "Tursiops aduncus",
+            "genericName": "Tursiops",
+            "specificEpithet": "aduncus",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "NT",
+            "dateIdentified": "2026-01-02T08:33:54",
+            "decimalLatitude": -3.4306,
+            "decimalLongitude": 39.964508,
+            "coordinateUncertaintyInMeters": 2.0,
+            "continent": "AFRICA",
+            "stateProvince": "Kilifi",
+            "gadm": {},
+            "year": 2026,
+            "month": 1,
+            "day": 2,
+            "eventDate": "2026-01-02T09:01:39",
+            "startDayOfYear": 2,
+            "endDayOfYear": 2,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-02T10:29:26.000+00:00",
+            "lastInterpreted": "2026-07-14T22:25:25.945+00:00",
+            "references": "https://www.inaturalist.org/observations/333126626",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333126626"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/604725372",
+                    "created": "2026-01-02T17:01:39.000+00:00",
+                    "creator": "Stephanie M. Dloniak",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "Stephanie M. Dloniak",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604725372/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "Stephanie M. Dloniak",
+            "identifiedBy": "Stephanie M. Dloniak",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Mammalia",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "Stephanie M. Dloniak",
+            "identifier": "333126626",
+            "http://unknown.org/nick": "stephdloniak",
+            "verbatimEventDate": "2026-01-02 09:01:39",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Kilifi, KE",
+            "collectionCode": "Observations",
+            "gbifID": "5938027617",
+            "occurrenceID": "https://www.inaturalist.org/observations/333126626",
+            "taxonID": "41481",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333126626",
+            "institutionCode": "iNaturalist",
+            "eventTime": "09:01:39+03:00",
+            "identificationID": "745484060"
+        },
+        {
+            "key": 5938027647,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T22:07:39.537+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604757530/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "thomaswald",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "604757530",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "thomaswald",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/604757530",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-02T09:35:28-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "NYV2",
+                        "name": "Buteo augur (Rüppell, 1836)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Rüppell, 1836)",
+                        "genericName": "Buteo",
+                        "specificEpithet": "augur",
+                        "formattedName": "<i>Buteo</i> <i>augur</i> (Rüppell, 1836)"
+                    },
+                    "acceptedUsage": {
+                        "key": "NYV2",
+                        "name": "Buteo augur (Rüppell, 1836)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Rüppell, 1836)",
+                        "genericName": "Buteo",
+                        "specificEpithet": "augur",
+                        "formattedName": "<i>Buteo</i> <i>augur</i> (Rüppell, 1836)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "V2",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "MB",
+                            "name": "Accipitriformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "5W6",
+                            "name": "Accipitridae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "62HVC",
+                            "name": "Buteo",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "NYV2",
+                            "name": "Buteo augur",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "2480540",
+                        "name": "Buteo augur (Ruppell, 1836)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Ruppell, 1836)",
+                        "genericName": "Buteo",
+                        "specificEpithet": "augur",
+                        "formattedName": "<i>Buteo</i> <i>augur</i> (Ruppell, 1836)"
+                    },
+                    "acceptedUsage": {
+                        "key": "2480540",
+                        "name": "Buteo augur (Ruppell, 1836)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Ruppell, 1836)",
+                        "genericName": "Buteo",
+                        "specificEpithet": "augur",
+                        "formattedName": "<i>Buteo</i> <i>augur</i> (Ruppell, 1836)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "212",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "7191147",
+                            "name": "Accipitriformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "2877",
+                            "name": "Accipitridae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "2480517",
+                            "name": "Buteo",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "2480540",
+                            "name": "Buteo augur",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 2480540,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 212,
+            "orderKey": 7191147,
+            "familyKey": 2877,
+            "genusKey": 2480517,
+            "speciesKey": 2480540,
+            "acceptedTaxonKey": 2480540,
+            "scientificName": "Buteo augur (Ruppell, 1836)",
+            "scientificNameAuthorship": "(Ruppell, 1836)",
+            "acceptedScientificName": "Buteo augur (Ruppell, 1836)",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Accipitriformes",
+            "family": "Accipitridae",
+            "genus": "Buteo",
+            "species": "Buteo augur",
+            "genericName": "Buteo",
+            "specificEpithet": "augur",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "LC",
+            "dateIdentified": "2026-01-02T12:44:51",
+            "decimalLatitude": -1.272472,
+            "decimalLongitude": 34.985667,
+            "continent": "AFRICA",
+            "stateProvince": "Narok",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.33_1",
+                    "name": "Narok"
+                },
+                "level2": {
+                    "gid": "KEN.33.2_1",
+                    "name": "Kilgoris"
+                },
+                "level3": {
+                    "gid": "KEN.33.2.4_1",
+                    "name": "Kimintet"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 2,
+            "eventDate": "2026-01-02T09:35",
+            "startDayOfYear": 2,
+            "endDayOfYear": 2,
+            "issues": [
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-03-23T05:22:07.000+00:00",
+            "lastInterpreted": "2026-07-14T22:07:39.537+00:00",
+            "references": "https://www.inaturalist.org/observations/333143771",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333143771"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/604757530",
+                    "created": "2026-01-02T17:35:28.000+00:00",
+                    "creator": "thomaswald",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "thomaswald",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604757530/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "thomaswald",
+            "identifiedBy": "thomaswald",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Aves",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "thomaswald",
+            "identifier": "333143771",
+            "http://unknown.org/nick": "thomaswald",
+            "verbatimEventDate": "2026/01/02 9:35 AM",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Lolgorian, Kenya",
+            "collectionCode": "Observations",
+            "gbifID": "5938027647",
+            "occurrenceID": "https://www.inaturalist.org/observations/333143771",
+            "taxonID": "204471",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333143771",
+            "institutionCode": "iNaturalist",
+            "eventTime": "09:35:00+03:00",
+            "identificationID": "745538151"
+        },
+        {
+            "key": 5938030027,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T22:18:19.381+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605603908/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "Parker Brandenburg",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "605603908",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "Parker Brandenburg",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/605603908",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-04T11:36:38-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "6ZXQ2",
+                        "name": "Streptopelia capicola (Sundevall, 1857)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Sundevall, 1857)",
+                        "genericName": "Streptopelia",
+                        "specificEpithet": "capicola",
+                        "formattedName": "<i>Streptopelia</i> <i>capicola</i> (Sundevall, 1857)"
+                    },
+                    "acceptedUsage": {
+                        "key": "6ZXQ2",
+                        "name": "Streptopelia capicola (Sundevall, 1857)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Sundevall, 1857)",
+                        "genericName": "Streptopelia",
+                        "specificEpithet": "capicola",
+                        "formattedName": "<i>Streptopelia</i> <i>capicola</i> (Sundevall, 1857)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "V2",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "Z8",
+                            "name": "Columbiformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "8GD",
+                            "name": "Columbidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "JCZ",
+                            "name": "Columbinae",
+                            "rank": "SUBFAMILY"
+                        },
+                        {
+                            "key": "7P7J",
+                            "name": "Streptopelia",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "6ZXQ2",
+                            "name": "Streptopelia capicola",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "2495667",
+                        "name": "Streptopelia capicola (Sundevall, 1857)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Sundevall, 1857)",
+                        "genericName": "Streptopelia",
+                        "specificEpithet": "capicola",
+                        "formattedName": "<i>Streptopelia</i> <i>capicola</i> (Sundevall, 1857)"
+                    },
+                    "acceptedUsage": {
+                        "key": "2495667",
+                        "name": "Streptopelia capicola (Sundevall, 1857)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Sundevall, 1857)",
+                        "genericName": "Streptopelia",
+                        "specificEpithet": "capicola",
+                        "formattedName": "<i>Streptopelia</i> <i>capicola</i> (Sundevall, 1857)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "212",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "1446",
+                            "name": "Columbiformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "5233",
+                            "name": "Columbidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "2495657",
+                            "name": "Streptopelia",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "2495667",
+                            "name": "Streptopelia capicola",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 2495667,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 212,
+            "orderKey": 1446,
+            "familyKey": 5233,
+            "genusKey": 2495657,
+            "speciesKey": 2495667,
+            "acceptedTaxonKey": 2495667,
+            "scientificName": "Streptopelia capicola (Sundevall, 1857)",
+            "scientificNameAuthorship": "(Sundevall, 1857)",
+            "acceptedScientificName": "Streptopelia capicola (Sundevall, 1857)",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Columbiformes",
+            "family": "Columbidae",
+            "genus": "Streptopelia",
+            "species": "Streptopelia capicola",
+            "genericName": "Streptopelia",
+            "specificEpithet": "capicola",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "LC",
+            "dateIdentified": "2026-01-05T09:24:20",
+            "decimalLatitude": -1.124248,
+            "decimalLongitude": 35.267638,
+            "coordinateUncertaintyInMeters": 11853.0,
+            "continent": "AFRICA",
+            "stateProvince": "Narok",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.33_1",
+                    "name": "Narok"
+                },
+                "level2": {
+                    "gid": "KEN.33.6_1",
+                    "name": "Narok West"
+                },
+                "level3": {
+                    "gid": "KEN.33.6.2_1",
+                    "name": "Mara"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 4,
+            "eventDate": "2026-01-04T11:36",
+            "startDayOfYear": 4,
+            "endDayOfYear": 4,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-05T17:02:41.000+00:00",
+            "lastInterpreted": "2026-07-14T22:18:19.381+00:00",
+            "references": "https://www.inaturalist.org/observations/333560943",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333560943"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/605603908",
+                    "created": "2026-01-04T19:36:38.000+00:00",
+                    "creator": "Parker Brandenburg",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "Parker Brandenburg",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605603908/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "Parker Brandenburg",
+            "identifiedBy": "Parker Brandenburg",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Aves",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "Parker Brandenburg",
+            "identifier": "333560943",
+            "http://unknown.org/nick": "parkerb05",
+            "verbatimEventDate": "2026/01/04 11:36 AM",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Ololunga, Kenya",
+            "collectionCode": "Observations",
+            "gbifID": "5938030027",
+            "occurrenceID": "https://www.inaturalist.org/observations/333560943",
+            "taxonID": "2959",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333560943",
+            "institutionCode": "iNaturalist",
+            "eventTime": "11:36:00+03:00",
+            "identificationID": "746731412"
+        },
+        {
+            "key": 5938062731,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T22:07:35.556+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604771479/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "Eddy Verbeek",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "604771479",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "Eddy Verbeek",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/604771479",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-02T14:02:00Z",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "lifeStage": "Adult",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "DH8P",
+                        "name": "Anastomus lamelligerus Temminck, 1823",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Temminck, 1823",
+                        "genericName": "Anastomus",
+                        "specificEpithet": "lamelligerus",
+                        "formattedName": "<i>Anastomus</i> <i>lamelligerus</i> Temminck, 1823"
+                    },
+                    "acceptedUsage": {
+                        "key": "DH8P",
+                        "name": "Anastomus lamelligerus Temminck, 1823",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Temminck, 1823",
+                        "genericName": "Anastomus",
+                        "specificEpithet": "lamelligerus",
+                        "formattedName": "<i>Anastomus</i> <i>lamelligerus</i> Temminck, 1823"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "V2",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "Y9",
+                            "name": "Ciconiiformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "88T",
+                            "name": "Ciconiidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "V9Y",
+                            "name": "Anastomus",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "DH8P",
+                            "name": "Anastomus lamelligerus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "5229411",
+                        "name": "Anastomus lamelligerus Temminck, 1823",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Temminck, 1823",
+                        "genericName": "Anastomus",
+                        "specificEpithet": "lamelligerus",
+                        "formattedName": "<i>Anastomus</i> <i>lamelligerus</i> Temminck, 1823"
+                    },
+                    "acceptedUsage": {
+                        "key": "5229411",
+                        "name": "Anastomus lamelligerus Temminck, 1823",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Temminck, 1823",
+                        "genericName": "Anastomus",
+                        "specificEpithet": "lamelligerus",
+                        "formattedName": "<i>Anastomus</i> <i>lamelligerus</i> Temminck, 1823"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "212",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "839",
+                            "name": "Ciconiiformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "9289",
+                            "name": "Ciconiidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "2481924",
+                            "name": "Anastomus",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "5229411",
+                            "name": "Anastomus lamelligerus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 5229411,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 212,
+            "orderKey": 839,
+            "familyKey": 9289,
+            "genusKey": 2481924,
+            "speciesKey": 5229411,
+            "acceptedTaxonKey": 5229411,
+            "scientificName": "Anastomus lamelligerus Temminck, 1823",
+            "scientificNameAuthorship": "Temminck, 1823",
+            "acceptedScientificName": "Anastomus lamelligerus Temminck, 1823",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Ciconiiformes",
+            "family": "Ciconiidae",
+            "genus": "Anastomus",
+            "species": "Anastomus lamelligerus",
+            "genericName": "Anastomus",
+            "specificEpithet": "lamelligerus",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "LC",
+            "dateIdentified": "2026-01-02T14:09:57",
+            "decimalLatitude": -0.826978,
+            "decimalLongitude": 36.374481,
+            "coordinateUncertaintyInMeters": 34.0,
+            "continent": "AFRICA",
+            "stateProvince": "Nakuru",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.31_1",
+                    "name": "Nakuru"
+                },
+                "level2": {
+                    "gid": "KEN.31.6_1",
+                    "name": "Naivasha"
+                },
+                "level3": {
+                    "gid": "KEN.31.6.7_1",
+                    "name": "Olkaria"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 2,
+            "eventDate": "2026-01-02T17:02",
+            "startDayOfYear": 2,
+            "endDayOfYear": 2,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-03T10:23:25.000+00:00",
+            "lastInterpreted": "2026-07-14T22:07:35.556+00:00",
+            "references": "https://www.inaturalist.org/observations/333150224",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333150224"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/604771479",
+                    "created": "2026-01-02T14:02:00.000+00:00",
+                    "creator": "Eddy Verbeek",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "Eddy Verbeek",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604771479/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "Eddy Verbeek",
+            "identifiedBy": "Eddy Verbeek",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Aves",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "Eddy Verbeek",
+            "identifier": "333150224",
+            "http://unknown.org/nick": "eddyverbeek",
+            "verbatimEventDate": "2026/01/02 5:02 PM",
+            "http://unknown.org/crawl_attempt": "600",
+            "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Sulmac Village, Kenya",
+            "collectionCode": "Observations",
+            "gbifID": "5938062731",
+            "occurrenceID": "https://www.inaturalist.org/observations/333150224",
+            "taxonID": "4776",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333150224",
+            "institutionCode": "iNaturalist",
+            "vitality": "alive",
+            "eventTime": "17:02:00+03:00",
+            "identificationID": "745558394"
+        },
+        {
+            "key": 5938065096,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T21:22:01.083+00:00",
+            "crawlId": 600,
+            "projectId": "https://www.inaturalist.org/projects/afriherps",
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-sa/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605411840/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "olliesaunders",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "605411840",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "olliesaunders",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/605411840",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-04T20:37:29-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "58VQK",
+                        "name": "Trioceros jacksonii (Boulenger, 1896)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Boulenger, 1896)",
+                        "genericName": "Trioceros",
+                        "specificEpithet": "jacksonii",
+                        "formattedName": "<i>Trioceros</i> <i>jacksonii</i> (Boulenger, 1896)"
+                    },
+                    "acceptedUsage": {
+                        "key": "58VQK",
+                        "name": "Trioceros jacksonii (Boulenger, 1896)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Boulenger, 1896)",
+                        "genericName": "Trioceros",
+                        "specificEpithet": "jacksonii",
+                        "formattedName": "<i>Trioceros</i> <i>jacksonii</i> (Boulenger, 1896)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "RP",
+                            "name": "Reptilia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "45C",
+                            "name": "Squamata",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "CV92F",
+                            "name": "Iguania",
+                            "rank": "SUBORDER"
+                        },
+                        {
+                            "key": "7ZD",
+                            "name": "Chamaeleonidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "8296",
+                            "name": "Trioceros",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "58VQK",
+                            "name": "Trioceros jacksonii",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "8371864",
+                        "name": "Trioceros jacksonii (Boulenger, 1896)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Boulenger, 1896)",
+                        "genericName": "Trioceros",
+                        "specificEpithet": "jacksonii",
+                        "formattedName": "<i>Trioceros</i> <i>jacksonii</i> (Boulenger, 1896)"
+                    },
+                    "acceptedUsage": {
+                        "key": "8371864",
+                        "name": "Trioceros jacksonii (Boulenger, 1896)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Boulenger, 1896)",
+                        "genericName": "Trioceros",
+                        "specificEpithet": "jacksonii",
+                        "formattedName": "<i>Trioceros</i> <i>jacksonii</i> (Boulenger, 1896)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "11592253",
+                            "name": "Squamata",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "9453",
+                            "name": "Chamaeleonidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "4818567",
+                            "name": "Trioceros",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "8371864",
+                            "name": "Trioceros jacksonii",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 8371864,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 11592253,
+            "familyKey": 9453,
+            "genusKey": 4818567,
+            "speciesKey": 8371864,
+            "acceptedTaxonKey": 8371864,
+            "scientificName": "Trioceros jacksonii (Boulenger, 1896)",
+            "scientificNameAuthorship": "(Boulenger, 1896)",
+            "acceptedScientificName": "Trioceros jacksonii (Boulenger, 1896)",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "family": "Chamaeleonidae",
+            "genus": "Trioceros",
+            "species": "Trioceros jacksonii",
+            "genericName": "Trioceros",
+            "specificEpithet": "jacksonii",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "LC",
+            "dateIdentified": "2026-01-04T18:04:47",
+            "decimalLatitude": -1.379105,
+            "decimalLongitude": 36.765167,
+            "coordinateUncertaintyInMeters": 64.0,
+            "continent": "AFRICA",
+            "stateProvince": "Nairobi",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.30_1",
+                    "name": "Nairobi"
+                },
+                "level2": {
+                    "gid": "KEN.30.11_1",
+                    "name": "Langata"
+                },
+                "level3": {
+                    "gid": "KEN.30.11.1_1",
+                    "name": "Karen"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 4,
+            "eventDate": "2026-01-04T20:37:29",
+            "startDayOfYear": 4,
+            "endDayOfYear": 4,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-05T02:21:07.000+00:00",
+            "lastInterpreted": "2026-07-14T21:22:01.083+00:00",
+            "references": "https://www.inaturalist.org/observations/333466472",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333466472"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/605411840",
+                    "created": "2026-01-05T04:37:29.000+00:00",
+                    "creator": "olliesaunders",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-sa/4.0/",
+                    "rightsHolder": "olliesaunders",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605411840/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "olliesaunders",
+            "identifiedBy": "olliesaunders",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Squamata",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "olliesaunders",
+            "identifier": "333466472",
+            "http://unknown.org/nick": "olliesaunders",
+            "verbatimEventDate": "2026-01-04 20:37:29",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Nairobi, Nairobi, KE",
+            "collectionCode": "Observations",
+            "gbifID": "5938065096",
+            "occurrenceID": "https://www.inaturalist.org/observations/333466472",
+            "taxonID": "32807",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333466472",
+            "institutionCode": "iNaturalist",
+            "eventTime": "20:37:29+03:00",
+            "identificationID": "746461420"
+        },
+        {
+            "key": 5938066370,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T21:35:00.436+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605674234/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "craigscribbles",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "605674234",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "craigscribbles",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/605674234",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-03T08:54:40-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "4KH9B",
+                        "name": "Ploceus rubiginosus Rüppell, 1840",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Rüppell, 1840",
+                        "genericName": "Ploceus",
+                        "specificEpithet": "rubiginosus",
+                        "formattedName": "<i>Ploceus</i> <i>rubiginosus</i> Rüppell, 1840"
+                    },
+                    "acceptedUsage": {
+                        "key": "4KH9B",
+                        "name": "Ploceus rubiginosus Rüppell, 1840",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Rüppell, 1840",
+                        "genericName": "Ploceus",
+                        "specificEpithet": "rubiginosus",
+                        "formattedName": "<i>Ploceus</i> <i>rubiginosus</i> Rüppell, 1840"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "V2",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "3RL",
+                            "name": "Passeriformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "627GF",
+                            "name": "Ploceidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "6T2Q",
+                            "name": "Ploceus",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "4KH9B",
+                            "name": "Ploceus rubiginosus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "2494071",
+                        "name": "Ploceus rubiginosus Rüppell, 1840",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Rüppell, 1840",
+                        "genericName": "Ploceus",
+                        "specificEpithet": "rubiginosus",
+                        "formattedName": "<i>Ploceus</i> <i>rubiginosus</i> Rüppell, 1840"
+                    },
+                    "acceptedUsage": {
+                        "key": "2494071",
+                        "name": "Ploceus rubiginosus Rüppell, 1840",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Rüppell, 1840",
+                        "genericName": "Ploceus",
+                        "specificEpithet": "rubiginosus",
+                        "formattedName": "<i>Ploceus</i> <i>rubiginosus</i> Rüppell, 1840"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "212",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "729",
+                            "name": "Passeriformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "9336",
+                            "name": "Ploceidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "2494008",
+                            "name": "Ploceus",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "2494071",
+                            "name": "Ploceus rubiginosus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 2494071,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 212,
+            "orderKey": 729,
+            "familyKey": 9336,
+            "genusKey": 2494008,
+            "speciesKey": 2494071,
+            "acceptedTaxonKey": 2494071,
+            "scientificName": "Ploceus rubiginosus Rüppell, 1840",
+            "scientificNameAuthorship": "Rüppell, 1840",
+            "acceptedScientificName": "Ploceus rubiginosus Rüppell, 1840",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Passeriformes",
+            "family": "Ploceidae",
+            "genus": "Ploceus",
+            "species": "Ploceus rubiginosus",
+            "genericName": "Ploceus",
+            "specificEpithet": "rubiginosus",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "LC",
+            "dateIdentified": "2026-01-05T17:12:28",
+            "decimalLatitude": -2.695697,
+            "decimalLongitude": 38.162131,
+            "coordinateUncertaintyInMeters": 61.0,
+            "continent": "AFRICA",
+            "stateProvince": "Taita Taveta",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.39_1",
+                    "name": "Taita Taveta"
+                },
+                "level2": {
+                    "gid": "KEN.39.3_1",
+                    "name": "Voi"
+                },
+                "level3": {
+                    "gid": "KEN.39.3.5_1",
+                    "name": "Ngolia"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 3,
+            "eventDate": "2026-01-03T08:54",
+            "startDayOfYear": 3,
+            "endDayOfYear": 3,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-05T17:24:59.000+00:00",
+            "lastInterpreted": "2026-07-14T21:35:00.436+00:00",
+            "references": "https://www.inaturalist.org/observations/333599208",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333599208"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/605674234",
+                    "created": "2026-01-03T16:54:40.000+00:00",
+                    "creator": "craigscribbles",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "craigscribbles",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605674234/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "craigscribbles",
+            "identifiedBy": "craigscribbles",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Aves",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "craigscribbles",
+            "identifier": "333599208",
+            "http://unknown.org/nick": "craigscribbles",
+            "verbatimEventDate": "2026/01/03 8:54 AM",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Tsavo N. Park, Kenya",
+            "collectionCode": "Observations",
+            "gbifID": "5938066370",
+            "occurrenceID": "https://www.inaturalist.org/observations/333599208",
+            "taxonID": "13786",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333599208",
+            "institutionCode": "iNaturalist",
+            "eventTime": "08:54:00+03:00",
+            "identificationID": "746856191"
+        },
+        {
+            "key": 5938066612,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T22:07:36.211+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605602076/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "Parker Brandenburg",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "605602076",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "Parker Brandenburg",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/605602076",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-04T10:38:08-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "lifeStage": "Adult",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "ZL56",
+                        "name": "Crocuta crocuta (Erxleben, 1777)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Erxleben, 1777)",
+                        "genericName": "Crocuta",
+                        "specificEpithet": "crocuta",
+                        "formattedName": "<i>Crocuta</i> <i>crocuta</i> (Erxleben, 1777)"
+                    },
+                    "acceptedUsage": {
+                        "key": "ZL56",
+                        "name": "Crocuta crocuta (Erxleben, 1777)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Erxleben, 1777)",
+                        "genericName": "Crocuta",
+                        "specificEpithet": "crocuta",
+                        "formattedName": "<i>Crocuta</i> <i>crocuta</i> (Erxleben, 1777)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "6224G",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "6226C",
+                            "name": "Theria",
+                            "rank": "SUBCLASS"
+                        },
+                        {
+                            "key": "LG",
+                            "name": "Eutheria",
+                            "rank": "INFRACLASS"
+                        },
+                        {
+                            "key": "VS",
+                            "name": "Carnivora",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "4DL",
+                            "name": "Feliformia",
+                            "rank": "SUBORDER"
+                        },
+                        {
+                            "key": "B7B",
+                            "name": "Hyaenidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "JPV",
+                            "name": "Hyaeninae",
+                            "rank": "SUBFAMILY"
+                        },
+                        {
+                            "key": "3W3S",
+                            "name": "Crocuta",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "ZL56",
+                            "name": "Crocuta crocuta",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "5218781",
+                        "name": "Crocuta crocuta (Erxleben, 1777)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Erxleben, 1777)",
+                        "genericName": "Crocuta",
+                        "specificEpithet": "crocuta",
+                        "formattedName": "<i>Crocuta</i> <i>crocuta</i> (Erxleben, 1777)"
+                    },
+                    "acceptedUsage": {
+                        "key": "5218781",
+                        "name": "Crocuta crocuta (Erxleben, 1777)",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "(Erxleben, 1777)",
+                        "genericName": "Crocuta",
+                        "specificEpithet": "crocuta",
+                        "formattedName": "<i>Crocuta</i> <i>crocuta</i> (Erxleben, 1777)"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "359",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "732",
+                            "name": "Carnivora",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "5306",
+                            "name": "Hyaenidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "2433504",
+                            "name": "Crocuta",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "5218781",
+                            "name": "Crocuta crocuta",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 5218781,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 359,
+            "orderKey": 732,
+            "familyKey": 5306,
+            "genusKey": 2433504,
+            "speciesKey": 5218781,
+            "acceptedTaxonKey": 5218781,
+            "scientificName": "Crocuta crocuta (Erxleben, 1777)",
+            "scientificNameAuthorship": "(Erxleben, 1777)",
+            "acceptedScientificName": "Crocuta crocuta (Erxleben, 1777)",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Carnivora",
+            "family": "Hyaenidae",
+            "genus": "Crocuta",
+            "species": "Crocuta crocuta",
+            "genericName": "Crocuta",
+            "specificEpithet": "crocuta",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "LC",
+            "dateIdentified": "2026-01-05T09:09:09",
+            "decimalLatitude": -1.125904,
+            "decimalLongitude": 35.279239,
+            "coordinateUncertaintyInMeters": 11123.0,
+            "continent": "AFRICA",
+            "stateProvince": "Narok",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.33_1",
+                    "name": "Narok"
+                },
+                "level2": {
+                    "gid": "KEN.33.6_1",
+                    "name": "Narok West"
+                },
+                "level3": {
+                    "gid": "KEN.33.6.2_1",
+                    "name": "Mara"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 4,
+            "eventDate": "2026-01-04T10:38",
+            "startDayOfYear": 4,
+            "endDayOfYear": 4,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-22T08:27:56.000+00:00",
+            "lastInterpreted": "2026-07-14T22:07:36.211+00:00",
+            "references": "https://www.inaturalist.org/observations/333559854",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333559854"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/605602076",
+                    "created": "2026-01-04T18:38:08.000+00:00",
+                    "creator": "Parker Brandenburg",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "Parker Brandenburg",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605602076/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "Parker Brandenburg",
+            "identifiedBy": "Parker Brandenburg",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Mammalia",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "Parker Brandenburg",
+            "identifier": "333559854",
+            "http://unknown.org/nick": "parkerb05",
+            "verbatimEventDate": "2026/01/04 10:38 AM",
+            "http://unknown.org/crawl_attempt": "600",
+            "dynamicProperties": "{\"evidenceOfPresence\":\"organism\"}",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Ololunga, Kenya",
+            "collectionCode": "Observations",
+            "gbifID": "5938066612",
+            "occurrenceID": "https://www.inaturalist.org/observations/333559854",
+            "taxonID": "41886",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333559854",
+            "institutionCode": "iNaturalist",
+            "vitality": "alive",
+            "eventTime": "10:38:00+03:00",
+            "identificationID": "746728648"
+        },
+        {
+            "key": 5938073627,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T21:22:04.133+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605419254/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "Parker Brandenburg",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "605419254",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "Parker Brandenburg",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/605419254",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-03T21:20:16-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "3M2JB",
+                        "name": "Hippopotamus amphibius Linnaeus, 1758",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Linnaeus, 1758",
+                        "genericName": "Hippopotamus",
+                        "specificEpithet": "amphibius",
+                        "formattedName": "<i>Hippopotamus</i> <i>amphibius</i> Linnaeus, 1758"
+                    },
+                    "acceptedUsage": {
+                        "key": "3M2JB",
+                        "name": "Hippopotamus amphibius Linnaeus, 1758",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Linnaeus, 1758",
+                        "genericName": "Hippopotamus",
+                        "specificEpithet": "amphibius",
+                        "formattedName": "<i>Hippopotamus</i> <i>amphibius</i> Linnaeus, 1758"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "6224G",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "6226C",
+                            "name": "Theria",
+                            "rank": "SUBCLASS"
+                        },
+                        {
+                            "key": "LG",
+                            "name": "Eutheria",
+                            "rank": "INFRACLASS"
+                        },
+                        {
+                            "key": "6227M",
+                            "name": "Artiodactyla",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "B3L",
+                            "name": "Hippopotamidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "4XG6",
+                            "name": "Hippopotamus",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "3M2JB",
+                            "name": "Hippopotamus amphibius",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "VU",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "2441247",
+                        "name": "Hippopotamus amphibius Linnaeus, 1758",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Linnaeus, 1758",
+                        "genericName": "Hippopotamus",
+                        "specificEpithet": "amphibius",
+                        "formattedName": "<i>Hippopotamus</i> <i>amphibius</i> Linnaeus, 1758"
+                    },
+                    "acceptedUsage": {
+                        "key": "2441247",
+                        "name": "Hippopotamus amphibius Linnaeus, 1758",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Linnaeus, 1758",
+                        "genericName": "Hippopotamus",
+                        "specificEpithet": "amphibius",
+                        "formattedName": "<i>Hippopotamus</i> <i>amphibius</i> Linnaeus, 1758"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "359",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "731",
+                            "name": "Artiodactyla",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "5300",
+                            "name": "Hippopotamidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "2441245",
+                            "name": "Hippopotamus",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "2441247",
+                            "name": "Hippopotamus amphibius",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "VU",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 2441247,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 359,
+            "orderKey": 731,
+            "familyKey": 5300,
+            "genusKey": 2441245,
+            "speciesKey": 2441247,
+            "acceptedTaxonKey": 2441247,
+            "scientificName": "Hippopotamus amphibius Linnaeus, 1758",
+            "scientificNameAuthorship": "Linnaeus, 1758",
+            "acceptedScientificName": "Hippopotamus amphibius Linnaeus, 1758",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Artiodactyla",
+            "family": "Hippopotamidae",
+            "genus": "Hippopotamus",
+            "species": "Hippopotamus amphibius",
+            "genericName": "Hippopotamus",
+            "specificEpithet": "amphibius",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "VU",
+            "dateIdentified": "2026-01-04T18:39:56",
+            "decimalLatitude": -1.039999,
+            "decimalLongitude": 35.341049,
+            "coordinateUncertaintyInMeters": 31448.0,
+            "continent": "AFRICA",
+            "stateProvince": "Narok",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.33_1",
+                    "name": "Narok"
+                },
+                "level2": {
+                    "gid": "KEN.33.6_1",
+                    "name": "Narok West"
+                },
+                "level3": {
+                    "gid": "KEN.33.6.2_1",
+                    "name": "Mara"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 3,
+            "eventDate": "2026-01-03T21:20",
+            "startDayOfYear": 3,
+            "endDayOfYear": 3,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-02-06T09:33:35.000+00:00",
+            "lastInterpreted": "2026-07-14T21:22:04.133+00:00",
+            "references": "https://www.inaturalist.org/observations/333470621",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333470621"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/605419254",
+                    "created": "2026-01-04T05:20:16.000+00:00",
+                    "creator": "Parker Brandenburg",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "Parker Brandenburg",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605419254/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "Parker Brandenburg",
+            "identifiedBy": "Parker Brandenburg",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Mammalia",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "Parker Brandenburg",
+            "identifier": "333470621",
+            "http://unknown.org/nick": "parkerb05",
+            "informationWithheld": "Coordinate uncertainty increased to 31448m to protect threatened taxon",
+            "verbatimEventDate": "2026/01/03 9:20 PM",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Narok, KE",
+            "collectionCode": "Observations",
+            "gbifID": "5938073627",
+            "occurrenceID": "https://www.inaturalist.org/observations/333470621",
+            "taxonID": "42149",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333470621",
+            "institutionCode": "iNaturalist",
+            "eventTime": "21:20:00+03:00",
+            "identificationID": "746474063"
+        },
+        {
+            "key": 5938077748,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T21:56:00.543+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604706771/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "Fabian747",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "604706771",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "Fabian747",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/604706771",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-02T09:26:00-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "X2M3",
+                        "name": "Colius striatus J. F. Gmelin, 1789",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "J. F. Gmelin, 1789",
+                        "genericName": "Colius",
+                        "specificEpithet": "striatus",
+                        "formattedName": "<i>Colius</i> <i>striatus</i> J. F. Gmelin, 1789"
+                    },
+                    "acceptedUsage": {
+                        "key": "X2M3",
+                        "name": "Colius striatus J. F. Gmelin, 1789",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "J. F. Gmelin, 1789",
+                        "genericName": "Colius",
+                        "specificEpithet": "striatus",
+                        "formattedName": "<i>Colius</i> <i>striatus</i> J. F. Gmelin, 1789"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "V2",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "YZ",
+                            "name": "Coliiformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "8FD",
+                            "name": "Coliidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "62N5B",
+                            "name": "Colius",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "X2M3",
+                            "name": "Colius striatus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "5229467",
+                        "name": "Colius striatus J.F.Gmelin, 1789",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "J.F.Gmelin, 1789",
+                        "genericName": "Colius",
+                        "specificEpithet": "striatus",
+                        "formattedName": "<i>Colius</i> <i>striatus</i> J.F.Gmelin, 1789"
+                    },
+                    "acceptedUsage": {
+                        "key": "5229467",
+                        "name": "Colius striatus J.F.Gmelin, 1789",
+                        "rank": "SPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "J.F.Gmelin, 1789",
+                        "genericName": "Colius",
+                        "specificEpithet": "striatus",
+                        "formattedName": "<i>Colius</i> <i>striatus</i> J.F.Gmelin, 1789"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "212",
+                            "name": "Aves",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "721",
+                            "name": "Coliiformes",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "9305",
+                            "name": "Coliidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "5229462",
+                            "name": "Colius",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "5229467",
+                            "name": "Colius striatus",
+                            "rank": "SPECIES"
+                        }
+                    ],
+                    "iucnRedListCategoryCode": "LC",
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 5229467,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 212,
+            "orderKey": 721,
+            "familyKey": 9305,
+            "genusKey": 5229462,
+            "speciesKey": 5229467,
+            "acceptedTaxonKey": 5229467,
+            "scientificName": "Colius striatus J.F.Gmelin, 1789",
+            "scientificNameAuthorship": "J.F.Gmelin, 1789",
+            "acceptedScientificName": "Colius striatus J.F.Gmelin, 1789",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Coliiformes",
+            "family": "Coliidae",
+            "genus": "Colius",
+            "species": "Colius striatus",
+            "genericName": "Colius",
+            "specificEpithet": "striatus",
+            "taxonRank": "SPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "iucnRedListCategory": "LC",
+            "dateIdentified": "2026-01-02T06:33:27",
+            "decimalLatitude": -4.261918,
+            "decimalLongitude": 39.59348,
+            "coordinateUncertaintyInMeters": 43.0,
+            "continent": "AFRICA",
+            "stateProvince": "Kwale",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.19_1",
+                    "name": "Kwale"
+                },
+                "level2": {
+                    "gid": "KEN.19.4_1",
+                    "name": "Msambweni"
+                },
+                "level3": {
+                    "gid": "KEN.19.4.1_1",
+                    "name": "Gombato Bongwe"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 2,
+            "eventDate": "2026-01-02T09:26",
+            "startDayOfYear": 2,
+            "endDayOfYear": 2,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-02T09:35:06.000+00:00",
+            "lastInterpreted": "2026-07-14T21:56:00.543+00:00",
+            "references": "https://www.inaturalist.org/observations/333117439",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333117439"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/604706771",
+                    "created": "2026-01-02T17:26:00.000+00:00",
+                    "creator": "Fabian747",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "Fabian747",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/604706771/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "Fabian747",
+            "identifiedBy": "Fabian747",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Aves",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "Fabian747",
+            "identifier": "333117439",
+            "http://unknown.org/nick": "fabian747",
+            "verbatimEventDate": "2026-01-02 09:26:00",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Msambweni, Kwale, KE",
+            "collectionCode": "Observations",
+            "gbifID": "5938077748",
+            "occurrenceID": "https://www.inaturalist.org/observations/333117439",
+            "taxonID": "3704",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333117439",
+            "institutionCode": "iNaturalist",
+            "eventTime": "09:26:00+03:00",
+            "identificationID": "745459070"
+        },
+        {
+            "key": 5938085973,
+            "datasetKey": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+            "publishingOrgKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "installationKey": "997448a8-f762-11e1-a439-00145eb45e9a",
+            "hostingOrganizationKey": "28eb1a3f-1c15-4a95-931a-4af90ecb574d",
+            "publishingCountry": "US",
+            "protocol": "DWC_ARCHIVE",
+            "lastCrawled": "2026-07-14T11:30:32.113+00:00",
+            "lastParsed": "2026-07-14T21:50:08.457+00:00",
+            "crawlId": 600,
+            "extensions": {
+                "http://rs.gbif.org/terms/1.0/Multimedia": [
+                    {
+                        "http://purl.org/dc/terms/license": "https://creativecommons.org/licenses/by-nc/4.0/",
+                        "http://purl.org/dc/terms/identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605403047/original.jpg",
+                        "http://purl.org/dc/terms/rightsHolder": "Parker Brandenburg",
+                        "http://rs.tdwg.org/dwc/terms/catalogNumber": "605403047",
+                        "http://purl.org/dc/terms/type": "StillImage",
+                        "http://purl.org/dc/terms/creator": "Parker Brandenburg",
+                        "http://purl.org/dc/terms/references": "https://www.inaturalist.org/photos/605403047",
+                        "http://purl.org/dc/terms/publisher": "iNaturalist",
+                        "http://purl.org/dc/terms/created": "2026-01-03T21:16:19-08:00",
+                        "http://purl.org/dc/terms/format": "image/jpeg"
+                    }
+                ]
+            },
+            "basisOfRecord": "HUMAN_OBSERVATION",
+            "occurrenceStatus": "PRESENT",
+            "classifications": {
+                "7ddf754f-d193-4cc9-b351-99906754a03b": {
+                    "usage": {
+                        "key": "KPK7C",
+                        "name": "Giraffa tippelskirchi tippelskirchi Matschie, 1898",
+                        "rank": "SUBSPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Matschie, 1898",
+                        "genericName": "Giraffa",
+                        "specificEpithet": "tippelskirchi",
+                        "infraspecificEpithet": "tippelskirchi",
+                        "formattedName": "<i>Giraffa</i> <i>tippelskirchi</i> <i>tippelskirchi</i> Matschie, 1898"
+                    },
+                    "acceptedUsage": {
+                        "key": "KPK7C",
+                        "name": "Giraffa tippelskirchi tippelskirchi Matschie, 1898",
+                        "rank": "SUBSPECIES",
+                        "code": "ZOOLOGICAL",
+                        "authorship": "Matschie, 1898",
+                        "genericName": "Giraffa",
+                        "specificEpithet": "tippelskirchi",
+                        "infraspecificEpithet": "tippelskirchi",
+                        "formattedName": "<i>Giraffa</i> <i>tippelskirchi</i> <i>tippelskirchi</i> Matschie, 1898"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "CS5HF",
+                            "name": "Eukaryota",
+                            "rank": "DOMAIN"
+                        },
+                        {
+                            "key": "N",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "CH2",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "8V4V3",
+                            "name": "Vertebrata",
+                            "rank": "SUBPHYLUM"
+                        },
+                        {
+                            "key": "8V4V5",
+                            "name": "Gnathostomata",
+                            "rank": "INFRAPHYLUM"
+                        },
+                        {
+                            "key": "8VVWB",
+                            "name": "Osteichthyes",
+                            "rank": "PARVPHYLUM"
+                        },
+                        {
+                            "key": "9CK8W",
+                            "name": "Tetrapoda",
+                            "rank": "MEGACLASS"
+                        },
+                        {
+                            "key": "6224G",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "6226C",
+                            "name": "Theria",
+                            "rank": "SUBCLASS"
+                        },
+                        {
+                            "key": "LG",
+                            "name": "Eutheria",
+                            "rank": "INFRACLASS"
+                        },
+                        {
+                            "key": "6227M",
+                            "name": "Artiodactyla",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "623HK",
+                            "name": "Giraffidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "4NM5",
+                            "name": "Giraffa",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "3G3KR",
+                            "name": "Giraffa tippelskirchi",
+                            "rank": "SPECIES"
+                        },
+                        {
+                            "key": "KPK7C",
+                            "name": "Giraffa tippelskirchi tippelskirchi",
+                            "rank": "SUBSPECIES"
+                        }
+                    ],
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                },
+                "d7dddbf4-2cf0-4f39-9b2a-bb099caae36c": {
+                    "usage": {
+                        "key": "10698764",
+                        "name": "Giraffa tippelskirchi tippelskirchi",
+                        "rank": "SUBSPECIES",
+                        "genericName": "Giraffa",
+                        "specificEpithet": "tippelskirchi",
+                        "infraspecificEpithet": "tippelskirchi",
+                        "formattedName": "<i>Giraffa</i> <i>tippelskirchi</i> <i>tippelskirchi</i>"
+                    },
+                    "acceptedUsage": {
+                        "key": "10698764",
+                        "name": "Giraffa tippelskirchi tippelskirchi",
+                        "rank": "SUBSPECIES",
+                        "genericName": "Giraffa",
+                        "specificEpithet": "tippelskirchi",
+                        "infraspecificEpithet": "tippelskirchi",
+                        "formattedName": "<i>Giraffa</i> <i>tippelskirchi</i> <i>tippelskirchi</i>"
+                    },
+                    "taxonomicStatus": "ACCEPTED",
+                    "classification": [
+                        {
+                            "key": "1",
+                            "name": "Animalia",
+                            "rank": "KINGDOM"
+                        },
+                        {
+                            "key": "44",
+                            "name": "Chordata",
+                            "rank": "PHYLUM"
+                        },
+                        {
+                            "key": "359",
+                            "name": "Mammalia",
+                            "rank": "CLASS"
+                        },
+                        {
+                            "key": "731",
+                            "name": "Artiodactyla",
+                            "rank": "ORDER"
+                        },
+                        {
+                            "key": "5299",
+                            "name": "Giraffidae",
+                            "rank": "FAMILY"
+                        },
+                        {
+                            "key": "7716694",
+                            "name": "Giraffa",
+                            "rank": "GENUS"
+                        },
+                        {
+                            "key": "9163257",
+                            "name": "Giraffa tippelskirchi",
+                            "rank": "SPECIES"
+                        },
+                        {
+                            "key": "10698764",
+                            "name": "Giraffa tippelskirchi tippelskirchi",
+                            "rank": "SUBSPECIES"
+                        }
+                    ],
+                    "issues": [
+                        "TAXON_ID_NOT_FOUND"
+                    ]
+                }
+            },
+            "taxonKey": 10698764,
+            "kingdomKey": 1,
+            "phylumKey": 44,
+            "classKey": 359,
+            "orderKey": 731,
+            "familyKey": 5299,
+            "genusKey": 7716694,
+            "speciesKey": 9163257,
+            "acceptedTaxonKey": 10698764,
+            "scientificName": "Giraffa tippelskirchi tippelskirchi",
+            "acceptedScientificName": "Giraffa tippelskirchi tippelskirchi",
+            "kingdom": "Animalia",
+            "phylum": "Chordata",
+            "order": "Artiodactyla",
+            "family": "Giraffidae",
+            "genus": "Giraffa",
+            "species": "Giraffa tippelskirchi",
+            "genericName": "Giraffa",
+            "specificEpithet": "tippelskirchi",
+            "infraspecificEpithet": "tippelskirchi",
+            "taxonRank": "SUBSPECIES",
+            "taxonomicStatus": "ACCEPTED",
+            "dateIdentified": "2026-01-04T21:23:42",
+            "decimalLatitude": -1.01831,
+            "decimalLongitude": 35.307456,
+            "coordinateUncertaintyInMeters": 31448.0,
+            "continent": "AFRICA",
+            "stateProvince": "Narok",
+            "gadm": {
+                "level0": {
+                    "gid": "KEN",
+                    "name": "Kenya"
+                },
+                "level1": {
+                    "gid": "KEN.33_1",
+                    "name": "Narok"
+                },
+                "level2": {
+                    "gid": "KEN.33.6_1",
+                    "name": "Narok West"
+                },
+                "level3": {
+                    "gid": "KEN.33.6.2_1",
+                    "name": "Mara"
+                }
+            },
+            "year": 2026,
+            "month": 1,
+            "day": 3,
+            "eventDate": "2026-01-03T21:16",
+            "startDayOfYear": 3,
+            "endDayOfYear": 3,
+            "issues": [
+                "COORDINATE_ROUNDED",
+                "CONTINENT_DERIVED_FROM_COORDINATES",
+                "TAXON_ID_NOT_FOUND"
+            ],
+            "modified": "2026-01-04T22:57:14.000+00:00",
+            "lastInterpreted": "2026-07-14T21:50:08.457+00:00",
+            "references": "https://www.inaturalist.org/observations/333470333",
+            "license": "http://creativecommons.org/licenses/by-nc/4.0/legalcode",
+            "isSequenced": false,
+            "identifiers": [
+                {
+                    "identifier": "333470333"
+                }
+            ],
+            "media": [
+                {
+                    "type": "StillImage",
+                    "format": "image/jpeg",
+                    "references": "https://www.inaturalist.org/photos/605403047",
+                    "created": "2026-01-04T05:16:19.000+00:00",
+                    "creator": "Parker Brandenburg",
+                    "publisher": "iNaturalist",
+                    "license": "http://creativecommons.org/licenses/by-nc/4.0/",
+                    "rightsHolder": "Parker Brandenburg",
+                    "identifier": "https://inaturalist-open-data.s3.amazonaws.com/photos/605403047/original.jpg"
+                }
+            ],
+            "facts": [],
+            "relations": [],
+            "isInCluster": false,
+            "datasetName": "iNaturalist research-grade observations",
+            "recordedBy": "Parker Brandenburg",
+            "identifiedBy": "Michal Sloviak",
+            "dnaSequenceID": [],
+            "nucleotideSequence": [],
+            "geodeticDatum": "WGS84",
+            "class": "Mammalia",
+            "countryCode": "KE",
+            "recordedByIDs": [],
+            "identifiedByIDs": [],
+            "gbifRegion": "AFRICA",
+            "country": "Kenya",
+            "publishedByGbifRegion": "NORTH_AMERICA",
+            "rightsHolder": "Parker Brandenburg",
+            "identifier": "333470333",
+            "http://unknown.org/nick": "parkerb05",
+            "informationWithheld": "Coordinate uncertainty increased to 31448m to protect threatened taxon",
+            "verbatimEventDate": "2026/01/03 9:16 PM",
+            "http://unknown.org/crawl_attempt": "600",
+            "http://unknown.org/status": "not_reviewed",
+            "verbatimLocality": "Narok, KE",
+            "collectionCode": "Observations",
+            "gbifID": "5938085973",
+            "occurrenceID": "https://www.inaturalist.org/observations/333470333",
+            "taxonID": "1510583",
+            "http://unknown.org/captive_cultivated": "wild",
+            "catalogNumber": "333470333",
+            "institutionCode": "iNaturalist",
+            "eventTime": "21:16:00+03:00",
+            "identificationID": "746532913"
+        }
+    ],
+    "facets": []
+}
+
