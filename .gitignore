@@ -1,0 +1,4 @@
+.env
+peach/
+__pycache__/
+*.pyc

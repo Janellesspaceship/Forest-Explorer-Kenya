@@ -1,0 +1,1880 @@
+[
+    {
+        "taxon": {
+            "sis_id": 22718975,
+            "scientific_name": "Ploceus rubiginosus",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "AVES",
+            "order_name": "PASSERIFORMES",
+            "family_name": "PLOCEIDAE",
+            "genus_name": "Ploceus",
+            "species_name": "rubiginosus",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "R\u00fcppell, 1840",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [
+                {
+                    "name": "IUCN SSC Bird Red List Authority (BirdLife International)",
+                    "url": "https://datazone.birdlife.org/",
+                    "description": "Red List Authority Coordinator: Ian Burfield (ian.burfield@birdlife.org)"
+                }
+            ],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Tisserin rubigineux",
+                    "language": "fre"
+                },
+                {
+                    "main": true,
+                    "name": "Chestnut Weaver",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": []
+        },
+        "assessments": [
+            {
+                "assessment_date": "2024-06-12T01:00:00.000+01:00",
+                "year_published": "2024",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/263922621",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LC",
+                "assessment_id": 263922621,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2016-10-01T01:00:00.000+01:00",
+                "year_published": "2017",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/111122394",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LC",
+                "assessment_id": 111122394,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2016-10-01T01:00:00.000+01:00",
+                "year_published": "2016",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/94604415",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LC",
+                "assessment_id": 94604415,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2012-05-01T01:00:00.000+01:00",
+                "year_published": "2012",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/38320013",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LC",
+                "assessment_id": 38320013,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2009-05-01T01:00:00.000+01:00",
+                "year_published": "2009",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/33555164",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LC",
+                "assessment_id": 33555164,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-05-01T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/33555729",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LC",
+                "assessment_id": 33555729,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2004-05-01T01:00:00.000+01:00",
+                "year_published": "2004",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/33556637",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LC",
+                "assessment_id": 33556637,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2000-05-01T01:00:00.000+01:00",
+                "year_published": "2000",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/33557198",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 33557198,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1994-05-01T01:00:00.000+01:00",
+                "year_published": "1994",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/33557774",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 33557774,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1988-05-01T01:00:00.000+01:00",
+                "year_published": "1988",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22718975,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22718975/33558120",
+                "taxon_scientific_name": "Ploceus rubiginosus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 33558120,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Ploceus",
+            "species_name": "Rubiginosus"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 22690488,
+            "scientific_name": "Streptopelia capicola",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "AVES",
+            "order_name": "COLUMBIFORMES",
+            "family_name": "COLUMBIDAE",
+            "genus_name": "Streptopelia",
+            "species_name": "capicola",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "(Sundevall, 1857)",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [
+                {
+                    "name": "IUCN SSC Bird Red List Authority (BirdLife International)",
+                    "url": "https://datazone.birdlife.org/",
+                    "description": "Red List Authority Coordinator: Ian Burfield (ian.burfield@birdlife.org)"
+                }
+            ],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Cape Turtle Dove",
+                    "language": "eng"
+                },
+                {
+                    "main": false,
+                    "name": "Tourterelle du Cap",
+                    "language": "fre"
+                },
+                {
+                    "main": true,
+                    "name": "Ring-necked Dove",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": []
+        },
+        "assessments": [
+            {
+                "assessment_date": "2018-08-09T01:00:00.000+01:00",
+                "year_published": "2018",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/132061633",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LC",
+                "assessment_id": 132061633,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2016-10-01T01:00:00.000+01:00",
+                "year_published": "2016",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/93275052",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LC",
+                "assessment_id": 93275052,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2012-05-01T01:00:00.000+01:00",
+                "year_published": "2012",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/38926576",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LC",
+                "assessment_id": 38926576,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2009-05-01T01:00:00.000+01:00",
+                "year_published": "2009",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/35683607",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LC",
+                "assessment_id": 35683607,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-05-01T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/35684548",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LC",
+                "assessment_id": 35684548,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2004-05-01T01:00:00.000+01:00",
+                "year_published": "2004",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/35685490",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LC",
+                "assessment_id": 35685490,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2000-05-01T01:00:00.000+01:00",
+                "year_published": "2000",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/35686070",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 35686070,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1994-05-01T01:00:00.000+01:00",
+                "year_published": "1994",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/35658656",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 35658656,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1988-05-01T01:00:00.000+01:00",
+                "year_published": "1988",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22690488,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22690488/35659458",
+                "taxon_scientific_name": "Streptopelia capicola",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 35659458,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Streptopelia",
+            "species_name": "capicola"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 41714,
+            "scientific_name": "Tursiops aduncus",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "MAMMALIA",
+            "order_name": "ARTIODACTYLA",
+            "family_name": "DELPHINIDAE",
+            "genus_name": "Tursiops",
+            "species_name": "aduncus",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "(Ehrenberg, 1833)",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Indian Ocean Bottlenose Dolphin",
+                    "language": "eng"
+                },
+                {
+                    "main": false,
+                    "name": "Delfin Mular del Oceano Indico",
+                    "language": "spa"
+                },
+                {
+                    "main": false,
+                    "name": "Grand dauphin de l'Oc\u00e9an Indien",
+                    "language": "fre"
+                },
+                {
+                    "main": false,
+                    "name": "Indiese Oseaan-stompneusdolfyn",
+                    "language": "afr"
+                },
+                {
+                    "main": true,
+                    "name": "Indo-Pacific Bottlenose Dolphin",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": [
+                {
+                    "name": "Delphinus aduncus Ehrenberg, 1833 [1832]",
+                    "status": "ACCEPTED",
+                    "genus_name": "Delphinus",
+                    "species_name": "aduncus",
+                    "species_author": "Ehrenberg, 1833 [1832]",
+                    "infrarank_author": null,
+                    "subpopulation_name": null,
+                    "infra_type": null,
+                    "infra_name": null
+                }
+            ]
+        },
+        "assessments": [
+            {
+                "assessment_date": "2019-07-18T01:00:00.000+01:00",
+                "year_published": "2019",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 41714,
+                "criteria": "A4cd",
+                "url": "https://www.iucnredlist.org/species/41714/50381127",
+                "taxon_scientific_name": "Tursiops aduncus",
+                "red_list_category_code": "NT",
+                "assessment_id": 50381127,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-07-01T01:00:00.000+01:00",
+                "year_published": "2012",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 41714,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/41714/17600466",
+                "taxon_scientific_name": "Tursiops aduncus",
+                "red_list_category_code": "DD",
+                "assessment_id": 17600466,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-06-30T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 41714,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/41714/10544239",
+                "taxon_scientific_name": "Tursiops aduncus",
+                "red_list_category_code": "DD",
+                "assessment_id": 10544239,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1996-08-01T01:00:00.000+01:00",
+                "year_published": "1996",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 41714,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/41714/10544662",
+                "taxon_scientific_name": "Tursiops aduncus",
+                "red_list_category_code": "DD",
+                "assessment_id": 10544662,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Tursiops",
+            "species_name": "aduncus"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 172531,
+            "scientific_name": "Trioceros jacksonii",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "REPTILIA",
+            "order_name": "SQUAMATA",
+            "family_name": "CHAMAELEONIDAE",
+            "genus_name": "Trioceros",
+            "species_name": "jacksonii",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "(Boulenger, 1896)",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [
+                {
+                    "name": "IUCN SSC Chameleon Specialist Group",
+                    "url": "https://www.iucn.org/ssc-groups/amphibians-reptiles/chameleon",
+                    "description": "Chair: Christopher Anderson (email: Christopher.V.Anders@usd.edu)\nRed List Authority Coordinator: Krystal A. Tolley (email: k.tolley@sanbi.org.za)"
+                }
+            ],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Jackson\u2019s Chameleon",
+                    "language": "eng"
+                },
+                {
+                    "main": false,
+                    "name": "Kikuyu Three-Horned Chameleon",
+                    "language": "eng"
+                },
+                {
+                    "main": true,
+                    "name": "Jackson\u2019s Three-horned Chameleon",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": [
+                {
+                    "name": "Chamaeleo jacksonii (Boulenger, 1896)",
+                    "status": "ACCEPTED",
+                    "genus_name": "Chamaeleo",
+                    "species_name": "jacksonii",
+                    "species_author": "(Boulenger, 1896)",
+                    "infrarank_author": null,
+                    "subpopulation_name": null,
+                    "infra_type": null,
+                    "infra_name": null
+                },
+                {
+                    "name": "Chamaeleon jacksonii Boulenger, 1896",
+                    "status": "ACCEPTED",
+                    "genus_name": "Chamaeleon",
+                    "species_name": "jacksonii",
+                    "species_author": "Boulenger, 1896",
+                    "infrarank_author": null,
+                    "subpopulation_name": null,
+                    "infra_type": null,
+                    "infra_name": null
+                }
+            ]
+        },
+        "assessments": [
+            {
+                "assessment_date": "2013-08-27T01:00:00.000+01:00",
+                "year_published": "2014",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 172531,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/172531/109922526",
+                "taxon_scientific_name": "Trioceros jacksonii",
+                "red_list_category_code": "LC",
+                "assessment_id": 109922526,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2013-08-27T01:00:00.000+01:00",
+                "year_published": "2014",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 172531,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/172531/1344462",
+                "taxon_scientific_name": "Trioceros jacksonii",
+                "red_list_category_code": "LC",
+                "assessment_id": 1344462,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Trioceros",
+            "species_name": "Jacksonii"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 22732019,
+            "scientific_name": "Buteo augur",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "AVES",
+            "order_name": "ACCIPITRIFORMES",
+            "family_name": "ACCIPITRIDAE",
+            "genus_name": "Buteo",
+            "species_name": "augur",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "(R\u00fcppell, 1836)",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [
+                {
+                    "name": "IUCN SSC Bird Red List Authority (BirdLife International)",
+                    "url": "https://datazone.birdlife.org/",
+                    "description": "Red List Authority Coordinator: Ian Burfield (ian.burfield@birdlife.org)"
+                }
+            ],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Buse augure",
+                    "language": "fre"
+                },
+                {
+                    "main": true,
+                    "name": "Augur Buzzard",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": []
+        },
+        "assessments": [
+            {
+                "assessment_date": "2025-06-12T01:00:00.000+01:00",
+                "year_published": "2025",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/281975339",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "LC",
+                "assessment_id": 281975339,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2016-10-01T01:00:00.000+01:00",
+                "year_published": "2016",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/95040751",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "LC",
+                "assessment_id": 95040751,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2012-05-01T01:00:00.000+01:00",
+                "year_published": "2012",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/39079926",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "LC",
+                "assessment_id": 39079926,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2009-05-01T01:00:00.000+01:00",
+                "year_published": "2009",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/24707476",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "LC",
+                "assessment_id": 24707476,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-05-01T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/24708239",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "LC",
+                "assessment_id": 24708239,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2005-05-01T01:00:00.000+01:00",
+                "year_published": "2005",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/24708970",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "LC",
+                "assessment_id": 24708970,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2004-05-01T01:00:00.000+01:00",
+                "year_published": "2004",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/24709717",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "NR",
+                "assessment_id": 24709717,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2000-05-01T01:00:00.000+01:00",
+                "year_published": "2000",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/24705594",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "NR",
+                "assessment_id": 24705594,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1994-05-01T01:00:00.000+01:00",
+                "year_published": "1994",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/24706609",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "NR",
+                "assessment_id": 24706609,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1988-05-01T01:00:00.000+01:00",
+                "year_published": "1988",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22732019,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22732019/24707229",
+                "taxon_scientific_name": "Buteo augur",
+                "red_list_category_code": "NR",
+                "assessment_id": 24707229,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Buteo",
+            "species_name": "augur"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 293830647,
+            "scientific_name": "Giraffa tippelskirchi",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "MAMMALIA",
+            "order_name": "ARTIODACTYLA",
+            "family_name": "GIRAFFIDAE",
+            "genus_name": "Giraffa",
+            "species_name": "tippelskirchi",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "Matschie, 1898",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [],
+            "common_names": [],
+            "synonyms": []
+        },
+        "assessments": [],
+        "params": {
+            "genus_name": "Giraffa",
+            "species_name": "tippelskirchi"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 10103,
+            "scientific_name": "Hippopotamus amphibius",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "MAMMALIA",
+            "order_name": "ARTIODACTYLA",
+            "family_name": "HIPPOPOTAMIDAE",
+            "genus_name": "Hippopotamus",
+            "species_name": "amphibius",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "Linnaeus, 1758",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Hippopotamus",
+                    "language": "eng"
+                },
+                {
+                    "main": false,
+                    "name": "Large Hippo",
+                    "language": "eng"
+                },
+                {
+                    "main": false,
+                    "name": "Hipop\u00f3tamo Anfibio",
+                    "language": "spa"
+                },
+                {
+                    "main": false,
+                    "name": "Hippopotame",
+                    "language": "fre"
+                },
+                {
+                    "main": false,
+                    "name": "Imvubu",
+                    "language": "xho"
+                },
+                {
+                    "main": false,
+                    "name": "Imvubu",
+                    "language": "zul"
+                },
+                {
+                    "main": false,
+                    "name": "Imvubu",
+                    "language": "ssw"
+                },
+                {
+                    "main": false,
+                    "name": "Imvubu",
+                    "language": "nbl"
+                },
+                {
+                    "main": false,
+                    "name": "Kubu",
+                    "language": "sot"
+                },
+                {
+                    "main": false,
+                    "name": "Kubu",
+                    "language": "nso"
+                },
+                {
+                    "main": false,
+                    "name": "Kubu",
+                    "language": "tsn"
+                },
+                {
+                    "main": false,
+                    "name": "Mpfuvu",
+                    "language": "tso"
+                },
+                {
+                    "main": false,
+                    "name": "Mvuvhu",
+                    "language": "ven"
+                },
+                {
+                    "main": false,
+                    "name": "Seekoei",
+                    "language": "afr"
+                },
+                {
+                    "main": true,
+                    "name": "Common Hippopotamus",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": []
+        },
+        "assessments": [
+            {
+                "assessment_date": "2016-06-16T01:00:00.000+01:00",
+                "year_published": "2017",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 10103,
+                "criteria": "A4acd",
+                "url": "https://www.iucnredlist.org/species/10103/18567364",
+                "taxon_scientific_name": "Hippopotamus amphibius",
+                "red_list_category_code": "VU",
+                "assessment_id": 18567364,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-06-30T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 10103,
+                "criteria": "A4cd",
+                "url": "https://www.iucnredlist.org/species/10103/3163790",
+                "taxon_scientific_name": "Hippopotamus amphibius",
+                "red_list_category_code": "VU",
+                "assessment_id": 3163790,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-01-01T00:00:00.000+00:00",
+                "year_published": "2010",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 10103,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/10103/3163374",
+                "taxon_scientific_name": "Hippopotamus amphibius",
+                "red_list_category_code": "RE",
+                "assessment_id": 3163374,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Mediterranean"
+                        },
+                        "code": "4"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2006-01-31T00:00:00.000+00:00",
+                "year_published": "2006",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 10103,
+                "criteria": "A4cd",
+                "url": "https://www.iucnredlist.org/species/10103/3162922",
+                "taxon_scientific_name": "Hippopotamus amphibius",
+                "red_list_category_code": "VU",
+                "assessment_id": 3162922,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1996-08-01T01:00:00.000+01:00",
+                "year_published": "1996",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 10103,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/10103/3163352",
+                "taxon_scientific_name": "Hippopotamus amphibius",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 3163352,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Hippopotamus",
+            "species_name": "amphibius"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 22683776,
+            "scientific_name": "Colius striatus",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "AVES",
+            "order_name": "COLIIFORMES",
+            "family_name": "COLIIDAE",
+            "genus_name": "Colius",
+            "species_name": "striatus",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "Gmelin, 1789",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [
+                {
+                    "name": "IUCN SSC Bird Red List Authority (BirdLife International)",
+                    "url": "https://datazone.birdlife.org/",
+                    "description": "Red List Authority Coordinator: Ian Burfield (ian.burfield@birdlife.org)"
+                }
+            ],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Coliou barr\u00e9",
+                    "language": "fre"
+                },
+                {
+                    "main": true,
+                    "name": "Speckled Mousebird",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": []
+        },
+        "assessments": [
+            {
+                "assessment_date": "2024-06-12T01:00:00.000+01:00",
+                "year_published": "2024",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/263660058",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LC",
+                "assessment_id": 263660058,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2016-10-01T01:00:00.000+01:00",
+                "year_published": "2016",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/93000568",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LC",
+                "assessment_id": 93000568,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2012-05-01T01:00:00.000+01:00",
+                "year_published": "2012",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/40544837",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LC",
+                "assessment_id": 40544837,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2009-05-01T01:00:00.000+01:00",
+                "year_published": "2009",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/26187849",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LC",
+                "assessment_id": 26187849,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-05-01T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/26188670",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LC",
+                "assessment_id": 26188670,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2004-05-01T01:00:00.000+01:00",
+                "year_published": "2004",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/26189479",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LC",
+                "assessment_id": 26189479,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2000-05-01T01:00:00.000+01:00",
+                "year_published": "2000",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/26190273",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 26190273,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1994-05-01T01:00:00.000+01:00",
+                "year_published": "1994",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/26191012",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 26191012,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1988-05-01T01:00:00.000+01:00",
+                "year_published": "1988",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22683776,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22683776/26191806",
+                "taxon_scientific_name": "Colius striatus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 26191806,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Colius",
+            "species_name": "striatus"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 5674,
+            "scientific_name": "Crocuta crocuta",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "MAMMALIA",
+            "order_name": "CARNIVORA",
+            "family_name": "HYAENIDAE",
+            "genus_name": "Crocuta",
+            "species_name": "crocuta",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "(Erxleben, 1777)",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [
+                {
+                    "name": "IUCN SSC Hyaena Specialist Group",
+                    "url": "http://www.hyaenidae.org/the-hyaenidae.html",
+                    "description": "Chair: Stephanie Dloniak (email: stephdloniak@HyaenaSpecialistGroup.org)\nRed List Authority Coordinator: Oliver H\u00f6ner (email: hoener@izw-berlin.de)"
+                }
+            ],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Laughing Hyaena",
+                    "language": "eng"
+                },
+                {
+                    "main": false,
+                    "name": "Gevlekte Hi\u00ebna",
+                    "language": "afr"
+                },
+                {
+                    "main": true,
+                    "name": "Spotted Hyaena",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": [
+                {
+                    "name": "Canis crocuta Erxleben, 1777",
+                    "status": "ACCEPTED",
+                    "genus_name": "Canis",
+                    "species_name": "crocuta",
+                    "species_author": "Erxleben, 1777",
+                    "infrarank_author": null,
+                    "subpopulation_name": null,
+                    "infra_type": null,
+                    "infra_name": null
+                }
+            ]
+        },
+        "assessments": [
+            {
+                "assessment_date": "2014-10-01T01:00:00.000+01:00",
+                "year_published": "2015",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 5674,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/5674/45194782",
+                "taxon_scientific_name": "Crocuta crocuta",
+                "red_list_category_code": "LC",
+                "assessment_id": 45194782,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-06-30T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 5674,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/5674/11528523",
+                "taxon_scientific_name": "Crocuta crocuta",
+                "red_list_category_code": "LC",
+                "assessment_id": 11528523,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1996-08-01T01:00:00.000+01:00",
+                "year_published": "1996",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 5674,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/5674/11528836",
+                "taxon_scientific_name": "Crocuta crocuta",
+                "red_list_category_code": "LR/cd",
+                "assessment_id": 11528836,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Crocuta",
+            "species_name": "crocuta"
+        }
+    },
+    {
+        "taxon": {
+            "sis_id": 22697664,
+            "scientific_name": "Anastomus lamelligerus",
+            "species_taxa": [],
+            "subpopulation_taxa": [],
+            "infrarank_taxa": [],
+            "kingdom_name": "ANIMALIA",
+            "phylum_name": "CHORDATA",
+            "class_name": "AVES",
+            "order_name": "CICONIIFORMES",
+            "family_name": "CICONIIDAE",
+            "genus_name": "Anastomus",
+            "species_name": "lamelligerus",
+            "subpopulation_name": null,
+            "infra_name": null,
+            "authority": "Temminck, 1823",
+            "species": true,
+            "subpopulation": false,
+            "infrarank": false,
+            "ssc_groups": [
+                {
+                    "name": "IUCN SSC Bird Red List Authority (BirdLife International)",
+                    "url": "https://datazone.birdlife.org/",
+                    "description": "Red List Authority Coordinator: Ian Burfield (ian.burfield@birdlife.org)"
+                }
+            ],
+            "common_names": [
+                {
+                    "main": false,
+                    "name": "Openbill Stork",
+                    "language": "eng"
+                },
+                {
+                    "main": false,
+                    "name": "Bec-ouvert africain",
+                    "language": "fre"
+                },
+                {
+                    "main": true,
+                    "name": "African Openbill",
+                    "language": "eng"
+                }
+            ],
+            "synonyms": []
+        },
+        "assessments": [
+            {
+                "assessment_date": "2018-08-06T01:00:00.000+01:00",
+                "year_published": "2018",
+                "latest": true,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/132274733",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LC",
+                "assessment_id": 132274733,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2016-10-01T01:00:00.000+01:00",
+                "year_published": "2016",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/93629238",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LC",
+                "assessment_id": 93629238,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2012-05-01T01:00:00.000+01:00",
+                "year_published": "2012",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/40232850",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LC",
+                "assessment_id": 40232850,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2009-05-01T01:00:00.000+01:00",
+                "year_published": "2009",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/23513767",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LC",
+                "assessment_id": 23513767,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2008-05-01T01:00:00.000+01:00",
+                "year_published": "2008",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/23514770",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LC",
+                "assessment_id": 23514770,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2004-05-01T01:00:00.000+01:00",
+                "year_published": "2004",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/23515590",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LC",
+                "assessment_id": 23515590,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "2000-05-01T01:00:00.000+01:00",
+                "year_published": "2000",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/23516723",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 23516723,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1994-05-01T01:00:00.000+01:00",
+                "year_published": "1994",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/23517742",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 23517742,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            },
+            {
+                "assessment_date": "1988-05-01T01:00:00.000+01:00",
+                "year_published": "1988",
+                "latest": false,
+                "possibly_extinct": false,
+                "possibly_extinct_in_the_wild": false,
+                "sis_taxon_id": 22697664,
+                "criteria": null,
+                "url": "https://www.iucnredlist.org/species/22697664/23518630",
+                "taxon_scientific_name": "Anastomus lamelligerus",
+                "red_list_category_code": "LR/lc",
+                "assessment_id": 23518630,
+                "scopes": [
+                    {
+                        "description": {
+                            "en": "Global"
+                        },
+                        "code": "1"
+                    }
+                ]
+            }
+        ],
+        "params": {
+            "genus_name": "Anastomus",
+            "species_name": "lamelligerus"
+        }
+    }
+]
