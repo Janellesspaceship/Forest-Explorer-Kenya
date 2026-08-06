@@ -2,3 +2,7 @@
 peach/
 __pycache__/
 *.pyc
+
+data/raw/
+data/processed/
+data/final/

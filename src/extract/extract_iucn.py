@@ -92,4 +92,3 @@ with open(output_file, "w", encoding="utf-8") as f:
 print("\n")
 print(f"Downloaded {len(results)} assessments.")
 print(f"Saved to {output_file}")
-print("====")
