@@ -1,9 +1,9 @@
-# Forest-Explorer-Kenya
+# 🌳Forest-Explorer-Kenya
 An interactive data-driven platform for exploring Kenya's forests, wildlife, biodiversity, and conservation insights.
 
 # Introduction
 
-Forest Explorer Kenya is an end-to-end cloud data engineering project that centralizes information about Kenya's forests and wildlife into a single platform. The project extracts data from public APIs and datasets, processes it through an automated ETL pipeline, stores it in Google Cloud, and delivers it through a responsive web application. It showcases key data engineering concepts, including ETL, cloud storage, data warehousing, workflow orchestration, REST APIs, and full-stack development.
+Forest Explorer Kenya is an end-to-end cloud data engineering project that centralizes information about Kenya's forests and wildlife into a single platform. The project extracts data from public APIs and datasets, processes it through an automated ETL pipeline, stores it in Google Cloud, and delivers it through a responsive web application. It showcases key data engineering concepts, including ETL, cloud storage, data warehousing, workflow orchestration, and full-stack development.
 
 # Problem Statement
 
@@ -13,199 +13,302 @@ Students, researchers, tourists, and conservationists often spend significant ti
 
 Forest Explorer Kenya solves this challenge by building a centralized cloud platform that automatically collects, processes, stores, and visualizes environmental data.
 
+
 # Objectives
 
-- Build an automated ETL pipeline for environmental data.
-- Integrate multiple APIs into one platform.
-- Store raw and processed data in Google Cloud.
-- Build a cloud data warehouse using BigQuery.
-- Develop REST APIs using FastAPI.
-- Create a responsive React web application.
-- Provide interactive dashboards and maps.
-- Demonstrate an end-to-end Data Engineering workflow.
+* Collect environmental data from multiple sources.
+* Clean and transform the data using Python.
+* Store the data in Google BigQuery.
+* Analyze the data using SQL and Pandas.
+* Create interactive dashboards and visualizations.
+* Display forest and wildlife locations on maps.
+* Make environmental information easier to explore.
+
+---
 
 # Architecture
 
-             External Data Sources
+```text
+External Data Sources
+        │
+        ├── GBIF API
+        ├── IUCN Red List
+        ├── Kenya Forest Service
+        └── OpenWeather API
+        │
+        ▼
+Data Extraction
+        │
+        ▼
+Data Cleaning & Transformation
+        │
+        ▼
+Google BigQuery
+        │
+        ▼
+SQL + Python + Pandas
+        │
+        ▼
+Streamlit Application
+        │
+        ▼
+Interactive Dashboards & Maps
+        │
+        ▼
+Users
+```
 
-      GBIF API
-      IUCN Red List API
-      Kenya Forest Service
-      OpenWeather API
+---
 
-               │
-               ▼
+# Data Sources
 
-       Data Extraction
+### 🌍 GBIF API
 
-               │
-               ▼
+Provides biodiversity and wildlife occurrence data, including species and geographic information.
 
-        Data Transformation and Cleaning
+### 🛡️ IUCN Red List
 
-               │
-               ▼
+Provides information about species conservation status and categories.
 
-     Google Cloud Storage/ Data Warehouse
+### 🌲 Kenya Forest Service Dataset
 
-               │
-               ▼
+Provides information about Kenya's forests, including forest types, locations, area, and geographic data.
 
-      Google BigQuery
+### 🌦️ OpenWeather API
 
-               │
-               ▼ 
-      Data Analysis
-                 
-               │                 
-               ▼
-    Interactive Application
-               |
-               ▼
+Provides weather information such as:
 
-             Users
+* Temperature
+* Weather conditions
+* Wind
+* Precipitation
 
-# Components
+OpenWeather is used as an external environmental data source and will allow weather conditions to be connected to forest locations.
 
-**GBIF API** 
-
-Provides biodiversity and wildlife occurrence records.
-
-**IUCN Red List API**
-
-Provides conservation status for species.
-
-**Kenya Forest Service Dataset**
-
-Contains information about Kenya's forests including location, size, and descriptions.
-
-**OpenWeather API**
-
-Provides real-time weather conditions for each forest.
-
-**Python**
-
-Responsible for extracting, cleaning, validating, and transforming environmental data.
-
-Libraries used:
-- Requests
-- Pandas
-- NumPy
-
-**Apache Airflow**
-
-Automates and orchestrates the ETL workflow.
-
-Responsibilities:
-- Schedule data extraction
-- Execute ETL jobs
-- Monitor workflows
-- Load processed data
-
-**Google Cloud Storage**
-
-Acts as the project's Data Lake.
-
-Stores:
-- Raw JSON
-- Raw CSV
-- Images
-- Logos
-
-**Google BigQuery**
-
-Cloud Data Warehouse used for analytical queries and reporting.
-
-**PostgreSQL**
-
-Stores application-specific data such as users, favourites, and saved searches.
-
-**FastAPI**
-
-Provides REST APIs that connect the frontend with the database.
-
-**React**
-
-Responsive frontend used to display:
-- Dashboard
-- Forest Explorer
-- Wildlife Explorer
-- Interactive Map
-- Weather
-- Conservation Dashboard
+---
 
 # ETL Workflow
 
-Extract
+### 1. Extract
 
-↓
+Data is collected from:
 
-GBIF API
-KFS Dataset
-Weather API
+* GBIF API
+* IUCN Red List
+* Kenya Forest Service
+* OpenWeather API
 
-↓
+### 2. Transform
 
-Transform
+The data is cleaned and prepared for analysis by:
 
-Remove duplicates
+* Removing duplicates
+* Standardizing column names
+* Handling missing values
+* Cleaning coordinates
+* Standardizing values
+* Preparing datasets for BigQuery
 
-Standardize names
+### 3. Load
 
-Clean coordinates
+The processed data is stored in **Google BigQuery**.
 
-Handle missing values
+### 4. Analyze
 
-↓
+Data is queried using **SQL** and analyzed using **Python and Pandas**.
 
-Load
+### 5. Visualize
 
-Google Cloud Storage
+The results are displayed through an interactive **Streamlit** application.
 
-↓
-
-BigQuery
-
-↓
-
-FastAPI
-
-↓
-
-React Website
+---
 
 # Features
 
-**Forest Explorer** - Search and browse Kenya's forests.
+### 🏠 Dashboard
 
-**Wildlife Explorer** - Explore wildlife species with conservation information.
+Provides an overview of the available forest data using:
 
-**Interactive Map** - Locate forests and protected areas.
+* Key statistics
+* Charts
+* Maps
 
-**Weather Dashboard** - Current weather conditions for selected forests.
+### 🌲 Forest Explorer
 
-**Statistics Dashboard** - Visualize biodiversity and conservation data.
+Allows users to:
 
-**Search Engine** - Search forests, wildlife, and species.
+* Explore forest locations
+* Filter forests by type
+* Filter by area
+* View forest statistics
+* View forest locations on a map
+
+### 🦁 Wildlife Explorer
+
+Allows users to explore:
+
+* Wildlife species
+* Species observations
+* Counties
+* Wildlife families
+* Geographic distribution
+
+### 🗺️ Interactive Map
+
+Displays forest locations geographically and provides a visual way to explore environmental data.
+
+### 🛡️ Conservation
+
+Provides information about protected areas and IUCN conservation categories.
+
+### 📊 Statistics
+
+Provides charts and summaries comparing forest types, locations, and area.
+
+### 🌦️ Weather
+
+The weather section is being developed using the **OpenWeather API** to provide environmental conditions for selected locations.
+
+---
+
+# BigQuery
+
+Google BigQuery is used as the project's cloud data warehouse.
+
+The project currently contains datasets related to:
+
+### Forests
+
+* Forest locations
+* Forest types
+* Gazetted forests
+* Protected forests
+
+### Wildlife
+
+* Species locations
+* Species taxonomy
+* Species observations
+* Species conservation information
+
+### Weather
+
+* Weather data
+* Current weather information
+
+---
 
 # Tech Stack
 
-| *Category*      | *Technology*          |
-| --------------- | --------------------- |
-| Programming     | Python                |
-| Backend         | FastAPI               |
-| Frontend        | React                 |
-| Database        | PostgreSQL            |
-| ETL             | Apache Airflow        |
-| Data Processing | Pandas                |
-| Cloud Storage   | Google Cloud Storage  |
-| Data Warehouse  | BigQuery              |
-| Maps            | Leaflet / Google Maps |
-| Version Control | GitHub                |
-| Deployment      | Google Cloud Run      |
+| Category        | Technology              |
+| --------------- | ----------------------- |
+| Programming     | Python                  |
+| Data Processing | Pandas, NumPy           |
+| Database        | Google BigQuery         |
+| Querying        | SQL                     |
+| Application     | Streamlit               |
+| Visualization   | Plotly                  |
+| Maps            | Streamlit Maps          |
+| APIs            | GBIF, IUCN, OpenWeather |
+| Data Source     | Kenya Forest Service    |
+| Version Control | Git & GitHub            |
+| Development     | VS Code                 |
+
+---
+
+# Project Structure
+
+```text
+Forest-Explorer-Kenya/
+│
+├── app/
+│   ├── app.py
+│   └── utils/
+│       ├── __init__.py
+│       └── bigquery.py
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── docs/
+│   └── data_dictionary.md
+│
+├── notebooks/
+│   ├── 01_gbif_eda.ipynb
+│   ├── 02_tranform_gbif.ipynb
+│   ├── 03_iucn_eda.ipynb
+│   └── 04_inspect_kfs.ipynb
+│
+├── src/
+│   ├── extract/
+│   ├── load/
+│   └── transform/
+│
+├── README.md
+├── Research_Questions.md
+├── requirements.txt
+└── LICENSE
+```
+
+---
+
+# Current Status
+
+### ✅ Completed
+
+* Data extraction and exploration
+* Data cleaning and transformation
+* GBIF data processing
+* Kenya Forest Service data processing
+* Google BigQuery integration
+* Forest data loaded into BigQuery
+* Wildlife data querying
+* Protected-area data querying
+* Streamlit application
+* Forest dashboard
+* Wildlife dashboard
+* Conservation dashboard
+* Statistics dashboard
+* Interactive forest map
+* Plotly visualizations
+
+### 🔄 In Development
+
+* OpenWeather API integration
+* Weather dashboard
+* Additional map layers
+* Expanded wildlife analysis
+* More advanced geospatial analysis
+
+---
+
+# Future Improvements
+
+Future versions of Forest Explorer Kenya could include:
+
+* Automated ETL workflows
+* More environmental APIs
+* Advanced interactive maps
+* Forest boundary visualization
+* Wildlife hotspot analysis
+* Weather analysis
+* REST APIs
+* Cloud deployment
+
+---
 
 # Author
 
-Janelle Akinyi
+**Janelle Akinyi**
 
-Capstone Project – End-to-End Cloud Data Engineering
+Data Analytics Student
+Zindua Coding School
+
+**Capstone Project — Forest Explorer Kenya**
+
+---
+
+## Project Goal
+
+To bring environmental data together in one platform and make information about **Kenya's forests, wildlife, biodiversity, and conservation** easier to explore and understand.
