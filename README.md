@@ -36,17 +36,17 @@ Forest Explorer Kenya solves this challenge by building a centralized cloud plat
                │
                ▼
 
-        Python ETL Pipeline
+       Data Extraction
 
                │
                ▼
 
-         Apache Airflow
+        Data Transformation and Cleaning
 
                │
                ▼
 
-     Google Cloud Storage
+     Google Cloud Storage/ Data Warehouse
 
                │
                ▼
@@ -54,17 +54,13 @@ Forest Explorer Kenya solves this challenge by building a centralized cloud plat
       Google BigQuery
 
                │
-      ┌────────┴────────┐
-      ▼                 ▼
-
- PostgreSQL         FastAPI
-
-      │                 │
-      └────────┬────────┘
+               ▼ 
+      Data Analysis
+                 
+               │                 
                ▼
-
-        React Web App
-
+    Interactive Application
+               |
                ▼
 
              Users
